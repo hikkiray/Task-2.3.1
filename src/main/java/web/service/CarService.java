@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-public class CarService {
+public class CarService implements CarServiceInterface {
     private List<Car> cars;
     public CarService() {
         cars = new ArrayList<Car>();
@@ -17,10 +17,12 @@ public class CarService {
         cars.add(new Car("Mercedes S-class", 60, "Silver"));
         cars.add(new Car("Honda Accord", 40, "Blue"));
     }
+    @Override
     public List<Car> getCars(int count) {
         if (count >= 5) {
             return cars;
         }
         return cars.subList(0, count);
     }
+
 }
