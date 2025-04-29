@@ -1,5 +1,5 @@
 ## Главная страница 
-![image](https://github.com/user-attachments/assets/f082abf8-eb2d-4d53-9c10-1673764a2a07)
+![image](https://github.com/user-attachments/assets/e242cf58-f483-4524-bbce-805cbe029ff6)
 
 ---
 
