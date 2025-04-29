@@ -1,8 +1,20 @@
-## Запрос cars?count=2
-![image](https://github.com/user-attachments/assets/4d1e969b-e877-45ba-a8d1-f8de96bb8063)
+## Главная страница 
+![image](https://github.com/user-attachments/assets/f082abf8-eb2d-4d53-9c10-1673764a2a07)
 
-## Запрос cars?count=4
-![image](https://github.com/user-attachments/assets/8c121545-78cc-46e5-a8e7-ea523bb60eee)
+---
 
-## Запрос cars?count=> 5
-![image](https://github.com/user-attachments/assets/2e9fbb89-def0-4a0a-a586-7eb02fa53f5b)
+## Добавляем пользователя 
+![image](https://github.com/user-attachments/assets/28b62656-387e-411c-81de-82b065d28ba8)
+![image](https://github.com/user-attachments/assets/02b9e643-dd68-4eda-b8fe-1fec2a5470de)
+
+---
+
+## Редактируем 
+![image](https://github.com/user-attachments/assets/808cf78f-1442-4e63-87bd-12645223cbc2)
+![image](https://github.com/user-attachments/assets/f8b4add3-4982-42e4-b785-54b111683ea0)
+
+---
+
+## Удаляем
+![image](https://github.com/user-attachments/assets/e5fded76-d961-4667-857b-fb66e573a80a)
+![image](https://github.com/user-attachments/assets/1040dd02-d5c2-40e7-afcb-8f60e893d405)
